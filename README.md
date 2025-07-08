@@ -18,15 +18,21 @@ With AI and machine learning becoming integral to modern computing, there is a g
 Tools and Technologies Used:
 
 
-Tool/Technology
-Description
+Tool/Technology and Description
 PictoBlox
+
 Graphical coding platform based on Scratch
+
 Tobi AI Extension
+
 AI-powered object detection engine integrated into PictoBlox
+
 Webcam
+
 Captures real-time video feed for object recognition
+
 Speech Block
+
 Converts detected object class to speech output
 
 
